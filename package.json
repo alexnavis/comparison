@@ -1,6 +1,6 @@
 {
   "name": "@digifi-los/comparison",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "standard comparisons for digifi pipeline and credit modules",
   "main": "index.js",
   "scripts": {
